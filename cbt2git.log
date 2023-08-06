@@ -1,0 +1,8 @@
+2023-08-06 02:47:56.816451 - Initialized conversion of CBT301
+2023-08-06 02:47:56.867945 - Received CBT.V505.FILE301.PDS from FILE301.XMI 
+2023-08-06 02:47:56.870303 - Found $$$$NOTE.txt (text/plain) in CBT.V505.FILE301.PDS, moved to PDS/$$$$NOTE
+2023-08-06 02:47:56.871332 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE301.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:47:56.872332 - Found @FILE301.txt (text/plain) in CBT.V505.FILE301.PDS, moved to PDS/@FILE301
+2023-08-06 02:47:56.873225 - Found CDSCB.jcl (text/plain) in CBT.V505.FILE301.PDS, moved to PDS/CDSCB
+2023-08-06 02:47:56.874270 - Found CDSCB$.jcl (text/plain) in CBT.V505.FILE301.PDS, moved to PDS/CDSCB$
+2023-08-06 02:47:56.875174 - Found CDSCB#.txt (text/plain) in CBT.V505.FILE301.PDS, moved to PDS/CDSCB#
