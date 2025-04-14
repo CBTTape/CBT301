@@ -1,7 +1,7 @@
-2025-04-13 18:29:51.587603 - Received CBT.V508.FILE301.PDS from FILE301.XMI 
-2025-04-13 18:29:51.588331 - Found $$$$NOTE.txt (text/plain) in CBT.V508.FILE301.PDS, moved to PDS/$$$$NOTE
-2025-04-13 18:29:51.588413 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE301.PDS, moved to PDS/$$$#DATE
-2025-04-13 18:29:51.588482 - Found @FILE301.txt (text/plain) in CBT.V508.FILE301.PDS, moved to PDS/@FILE301
-2025-04-13 18:29:51.588612 - Found CDSCB.jcl (text/plain) in CBT.V508.FILE301.PDS, moved to PDS/CDSCB
-2025-04-13 18:29:51.588683 - Found CDSCB$.jcl (text/plain) in CBT.V508.FILE301.PDS, moved to PDS/CDSCB$
-2025-04-13 18:29:51.588750 - Found CDSCB#.txt (text/plain) in CBT.V508.FILE301.PDS, moved to PDS/CDSCB#
+2025-04-15 01:19:08.190749 - Received CBT.V508.FILE301.PDS from FILE301.XMI 
+2025-04-15 01:19:08.192013 - Found $$$$NOTE.txt (text/plain) in CBT.V508.FILE301.PDS, moved to PDS/$$$$NOTE
+2025-04-15 01:19:08.192231 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE301.PDS, moved to PDS/$$$#DATE
+2025-04-15 01:19:08.192401 - Found @FILE301.txt (text/plain) in CBT.V508.FILE301.PDS, moved to PDS/@FILE301
+2025-04-15 01:19:08.193078 - Found CDSCB.jcl (text/plain) in CBT.V508.FILE301.PDS, moved to PDS/CDSCB
+2025-04-15 01:19:08.193367 - Found CDSCB$.jcl (text/plain) in CBT.V508.FILE301.PDS, moved to PDS/CDSCB$
+2025-04-15 01:19:08.193538 - Found CDSCB#.txt (text/plain) in CBT.V508.FILE301.PDS, moved to PDS/CDSCB#
